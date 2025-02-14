@@ -1,0 +1,7 @@
+ENUNCIADO 1: CLASIFICACIÓN DE EDAD.
+
+- ¿Qué estructura usarías? ¿if-else o switch? ¿Por qué?
+
+* Utilice el if-else ya que me permitió el poder evaluar rangos numéricos como: <12, >=12 && >= 17, entre otros. En sí el if-else es más flexible a la hora de utilizar condiciones con operadores lógicos como: &&, ||.
+
+* Porque con un switch solo se pueden comparar valores exactos, no rangos. y también se utiliza cuando hay muchas comparaciones de valores únicos.

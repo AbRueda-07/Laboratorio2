@@ -1,0 +1,5 @@
+ENUNCIADO 3: VERIFICACIÓN DE ACCESO.
+
+- ¿Qué estructura usarías? ¿if-else o switch? ¿Por qué?
+
+* Use el if-else porque se requiere evaluar combinaciones lógicas, lo cual no es adecuado para poder utilizar un switch en este programa.

@@ -1,0 +1,7 @@
+ENUNCIADO 2: DÍA DE LA SEMANA
+
+- ¿Qué estructura usarías? ¿if-else o switch? ¿Por qué?
+
+* Utilice un switch en este caso, ya que este me permite que cada caso de selección de los días de la semana sean un valor específico y no un rango, lo que mejora la legibilidad del código.
+
+* En cambio con un if-else solo puede basarse en decisiones en donde se emplean condiciones específicas, es decir, que este nos permite ejecutar ciertas instrucciones, las cuales van a depender de si se cumple la condición establecida o no.
