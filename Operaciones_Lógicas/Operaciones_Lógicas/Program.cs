@@ -21,8 +21,12 @@ class Program
         Console.WriteLine($"\n¿Ambos números son positivos? {andCondition}");
         Console.WriteLine($"\n¿Al menos uno de los números es negativo? {orCondition}");
 
-        bool complexCondition = (num1 > 10 && num2 < 50) || (num1 == num2);
-        Console.WriteLine($"\n¿El primer número es mayor a 10 y el segundo es menor a 50, o ambos son iguales? {complexCondition}");
+        bool condicionMayorMenor = (num1 > 10 && num2 < 50);
+        bool condicionIgualdad = (num1 == num2);
+       
+        Console.WriteLine($"\n¿El primer número es mayor a 10 y el segundo es menor a 50? {condicionMayorMenor}");
+        Console.WriteLine($"\n¿Ambos números son iguales? {condicionIgualdad}");
+
 
         Console.WriteLine("\nFin del programa");
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Verificación_de_Acceso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f86284fcd51cfc011c2c680c8a168cc21bc424")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754ecbb1c879ae046c4478ef5d8a8b882394ddf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Verificación_de_Acceso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Verificación_de_Acceso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

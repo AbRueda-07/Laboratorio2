@@ -1,4 +1,5 @@
-﻿using System; // Permite el uso de funcionalidades básicas como Console.
+﻿// PROYECTO DECLARACION Y USO DE VARIABLES
+using System; 
 
 namespace ProyectoConsola
 {
@@ -6,26 +7,26 @@ namespace ProyectoConsola
     {
         static void Main(string[] args)
         {
-            // Declaración de variables
+            
             int numeroEntero;
             double numeroDecimal;
             string texto;
             bool valorBooleano;
 
-            // Solicitar valores al usuario
+            
             Console.Write("Ingresa un número entero: ");
-            numeroEntero = Convert.ToInt32(Console.ReadLine()); // Convierte la entrada en int
+            numeroEntero = Convert.ToInt32(Console.ReadLine()); 
 
             Console.Write("Ingresa un número decimal: ");
-            numeroDecimal = Convert.ToDouble(Console.ReadLine()); // Convierte la entrada en double
+            numeroDecimal = Convert.ToDouble(Console.ReadLine()); 
 
             Console.Write("Ingresa un texto: ");
-            texto = Console.ReadLine(); // Captura la cadena de texto
+            texto = Console.ReadLine(); 
 
             Console.Write("Ingresa un valor booleano (true o false): ");
-            valorBooleano = Convert.ToBoolean(Console.ReadLine()); // Convierte la entrada en bool
+            valorBooleano = Convert.ToBoolean(Console.ReadLine()); 
 
-            // Mostrar valores ingresados
+           
             Console.WriteLine("\nValores ingresados:");
             Console.WriteLine("Número entero: " + numeroEntero);
             Console.WriteLine("Número decimal: " + numeroDecimal);
