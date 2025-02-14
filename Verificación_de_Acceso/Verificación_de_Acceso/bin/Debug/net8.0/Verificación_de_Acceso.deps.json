@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Verificación_de_Acceso/1.0.0": {
+        "runtime": {
+          "Verificación_de_Acceso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Verificación_de_Acceso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

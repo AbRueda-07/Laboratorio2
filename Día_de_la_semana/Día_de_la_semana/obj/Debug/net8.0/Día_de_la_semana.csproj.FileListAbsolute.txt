@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\bin\Debug\net8.0\Día_de_la_semana.exe
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\bin\Debug\net8.0\Día_de_la_semana.deps.json
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\bin\Debug\net8.0\Día_de_la_semana.runtimeconfig.json
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\bin\Debug\net8.0\Día_de_la_semana.dll
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\bin\Debug\net8.0\Día_de_la_semana.pdb
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.sourcelink.json
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.dll
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\refint\Día_de_la_semana.dll
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.pdb
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\Día_de_la_semana.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\laboratorio2-program\Día_de_la_semana\Día_de_la_semana\obj\Debug\net8.0\ref\Día_de_la_semana.dll
